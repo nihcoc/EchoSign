@@ -1,5 +1,4 @@
 //EchoSign 
-//Team: Alfred, Arnold, Haron, Nadaal, Siddarth
 //TECH TALK 2023-24 ADIS
 
 

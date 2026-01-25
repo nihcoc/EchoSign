@@ -1,6 +1,5 @@
 
 Project: EchoSign 
-Team: Alfred, Haron
 
 
 

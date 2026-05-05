@@ -1,7 +1,12 @@
 
-Project: EchoSign 
+Echosign
+---
+
+A custom made glove with flex sensors, accelerometer and an Arduino Nano that recognizes finger flex as diffrent sign languages.
 
 
 
-This Project can be used translate Sign Language into Text or Speech using AI and C/C++ *Arduino Programming Language*.
 
+
+
+demo: https://youtu.be/Sl1a8Vcy5Fw

@@ -3,7 +3,7 @@
 <img width="351" height="425" alt="image" src="https://github.com/user-attachments/assets/47d6f77e-8bc9-4526-9da5-c102a58ce9fd" />
 
 ---
-## Demo
+## Demo Video
 
 [![Echosign Demo](https://img.youtube.com/vi/Sl1a8Vcy5Fw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sl1a8Vcy5Fw)
 

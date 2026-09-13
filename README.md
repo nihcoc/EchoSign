@@ -12,7 +12,7 @@ This prototype uses 10 sensors on each finger to calculate the angle of the fing
 
 <img width="351" height="425" alt="image" src="https://github.com/user-attachments/assets/47d6f77e-8bc9-4526-9da5-c102a58ce9fd" />
 
-![Demo Video](EchoSign _ Sign- Language Translator _ ADNOC STEM Future of AI Project _ Alfred & Haron.mp4)
+<video src="EchoSign _ Sign- Language Translator _ ADNOC STEM Future of AI Project _ Alfred & Haron.mp4" width="320" height="240" controls></video>
 
 
 ---

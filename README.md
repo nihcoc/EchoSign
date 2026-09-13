@@ -27,8 +27,23 @@ Components:
 | **HC-04 BLE** | Relays the output from the Nano to a PC or Phone. |
 | **ADXl345** | A device that can give its x-y-z position in real time |
 | **Battery Pack** | 4.8 V 3 A 2000mAh|
-| **Gloves** | Comforable and wearable enclosure for the device. |
+| **Gloves** | Comforable and wearable enclosure for the device.|
 
-<iframe width="560" height="315" src="https://youtu.be/Sl1a8Vcy5Fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please see the KiCAD schematics for the wiring diagram.
+
+## Firmware:
+Gloves Side(C/C++)"
+
+It uses the analog and digital pins to gather the states of all 10 fingers and relative position of the hand, concatenates it into a single string with each sensor reading separated by a comma and routes it to the host via the HC-04 Bluetooth module using the UART protocol every 1 second. 
+
+Since two separate gloves are used the device name assigned to the HC-04 modules must be differentiated.
+
+Host Side(Python):
+
+Both the gloves connect to the host via bluetooth and a python script obtains the real time sensor string splits it and assigns the split values into respective variables. Then our basic algorithm takes these values and checks if the values are within a certain range of the preloaded word's sensor signature and returns what it thinks the word is if the probability is more than 80%.
+
+It uses an TTS(Text-To-Speech) Library for converting predicted text into speech.
+
+[![Watch the video](https://youtu.be/Sl1a8Vcy5Fw)](https://youtu.be/Sl1a8Vcy5Fw)
 
 

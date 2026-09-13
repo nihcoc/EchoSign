@@ -4,9 +4,8 @@
 
 ---
 ## Demo
-<video controls width="700">
-  <source src="https://github.com/nihcoc/EchoSign/raw/refs/heads/main/Demo.mp4" type="video/mp4">
-</video>
+
+[![Echosign Demo](https://img.youtube.com/vi/Sl1a8Vcy5Fw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sl1a8Vcy5Fw)
 
 ## Abstract
 

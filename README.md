@@ -1,6 +1,7 @@
 
 # Echosign
 
+<img width="351" height="425" alt="image" src="https://github.com/user-attachments/assets/47d6f77e-8bc9-4526-9da5-c102a58ce9fd" />
 
 ---
 
@@ -10,7 +11,6 @@ According to the World Federation of the Deaf, there are more than 70 million de
 
 This prototype uses 10 sensors on each finger to calculate the angle of the finger bend. An accelerometer is present in each hand for grasping X, Y, and Z axis location of both the hands, all of this is then sent to a computer for converting and translating each hand sign. Right now, we are building an AI system that can automatically recognize hands signs without manually entering each finger angle and X, Y, Z position. Our aim is to make a device that's easy to use, portable, and helps deaf people communicate better and more independently.
 
-<img width="351" height="425" alt="image" src="https://github.com/user-attachments/assets/47d6f77e-8bc9-4526-9da5-c102a58ce9fd" />
 
 <video src="EchoSign _ Sign- Language Translator _ ADNOC STEM Future of AI Project _ Alfred & Haron.mp4" width="320" height="240" controls></video>
 

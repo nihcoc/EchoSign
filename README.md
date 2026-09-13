@@ -4,10 +4,6 @@
 
 ---
 
-
-
-
-
 ## Abstract
 
 ---
@@ -32,7 +28,7 @@ Components:
 Please see the KiCAD schematics for the wiring diagram.
 
 ## Firmware:
-Gloves Side(C/C++)"
+Gloves Side(C/C++):
 
 It uses the analog and digital pins to gather the states of all 10 fingers and relative position of the hand, concatenates it into a single string with each sensor reading separated by a comma and routes it to the host via the HC-04 Bluetooth module using the UART protocol every 1 second. 
 

@@ -6,6 +6,7 @@
 ## Demo
 
 ![](./Demo.mp4)
+
 ## Abstract
 
 According to the World Federation of the Deaf, there are more than 70 million deaf people worldwide. They have no means of communication with majority of people who don’t know Sign Language. They spend sizable amounts of money for personal translators who follow them everywhere they go. That is why me and my team of 9th Graders decided to create a device that can translate hands signs into text and speech in real-time.

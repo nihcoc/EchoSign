@@ -43,4 +43,5 @@ It uses an TTS(Text-To-Speech) Library for converting predicted text into speech
 
 [![Watch the video](https://youtu.be/Sl1a8Vcy5Fw)](https://youtu.be/Sl1a8Vcy5Fw)
 
-
+Developed by Alfred and Haron Grade 9th(2023)
+**last updated 9/2026**

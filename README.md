@@ -12,7 +12,7 @@ According to the World Federation of the Deaf, there are more than 70 million de
 This prototype uses 10 sensors on each finger to calculate the angle of the finger bend. An accelerometer is present in each hand for grasping X, Y, and Z axis location of both the hands, all of this is then sent to a computer for converting and translating each hand sign. Right now, we are building an AI system that can automatically recognize hands signs without manually entering each finger angle and X, Y, Z position. Our aim is to make a device that's easy to use, portable, and helps deaf people communicate better and more independently.
 
 
-<video src="EchoSign_Sign-LanguageTranslator_ADNOC STEM Future of AI Project _ Alfred & Haron.mp4" width="320" height="240" controls></video>
+<video src="DemoVideo" width="320" height="240" controls></video>
 
 
 ---
@@ -28,6 +28,8 @@ Components:
 | **ADXl345** | A device that can give its x-y-z position in real time |
 | **Battery Pack** | 4.8 V 3 A 2000mAh|
 | **Gloves** | Comforable and wearable enclosure for the device.|
+| **PCB** | Custom PCB to eliminate wiring and improve durability.|
+
 
 Please see the KiCAD schematics for the wiring diagram.
 
